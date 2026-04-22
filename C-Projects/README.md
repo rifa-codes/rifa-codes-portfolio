@@ -1,5 +1,5 @@
 # C Projects
 
-- Calculator → https://github.com/rifa-codes/c-calculator
-- Guess Game → https://github.com/rifa-codes/c-guess-game
-- Student System → https://github.com/rifa-codes/c-student-system
+- Calculator →https://github.com/rifa-codes/calculator.c 
+- Guess Game →https://github.com/rifa-codes/number-guessing-game.c 
+- Student System → https://github.com/rifa-codes/student-record-system.c
