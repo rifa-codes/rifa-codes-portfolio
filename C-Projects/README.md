@@ -26,5 +26,4 @@
 
 -student system -https://github.com/rifa-codes/student-management-system-python
 
--expense tracker-https://github.com/rifa-codes/expense-tracker-python
 -expense tracker -https://github.com/rifa-codes/expense-tracker-python
