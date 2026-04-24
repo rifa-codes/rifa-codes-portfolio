@@ -13,7 +13,7 @@
 
 -ATM -https://github.com/rifa-codes/ATM-system-.cpp
 
-#java project
+# java project
 -student system -https://github.com/rifa-codes/student-system-java
 
 -login system -https://github.com/rifa-codes/login-system-java
@@ -25,4 +25,6 @@
 
 
 -student system -https://github.com/rifa-codes/student-management-system-python
+
+-expense tracker-https://github.com/rifa-codes/expense-tracker-python
 -expense tracker -https://github.com/rifa-codes/expense-tracker-python
